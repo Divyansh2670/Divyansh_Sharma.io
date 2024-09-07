@@ -1,8 +1,3 @@
-# Portfolio-Website-Divyansh-Sharma
-
-Here's a README file template for your GitHub project based on the information provided:
-
-```markdown
 # Divyansh Sharma's Portfolio
 
 Welcome to my personal portfolio website! I am Divyansh Sharma, a passionate Computer Science undergraduate currently pursuing my B.Tech at VIT Bhopal University. This site showcases my skills, projects, and experiences in web development and graphic design.
@@ -32,17 +27,7 @@ Creating visually stunning designs that communicate ideas and engage audiences.
 - **Email:** [ds70787870@gmail.com](mailto:ds70787870@gmail.com)
 - **Location:** Kota, Rajasthan
 
-## Social Media
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Behance](https://www.behance.net/your-behance-profile)
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to all the mentors and peers who have supported me in my journey.
-```
 
